@@ -336,3 +336,8 @@ iframe {
     padding: 15px;
   }
 }
+
+html, body {
+  height: 100%;
+  margin: 0;
+}
